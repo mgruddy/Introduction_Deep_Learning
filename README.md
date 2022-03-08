@@ -32,8 +32,8 @@ The repository associated with the course MSDS631 at University of San Francisco
 The course will be graded based on the following components:
 
 - **Professionalism** (20%): Students will attend each live lecture (unless given prior permission for watching recording), participating in all quizzes/polls, and will be ready to respond if called upon. Additionally students will follow the code of conduct.
-- **Assignments** (30%): There will be 3 Homework Assignments. These will be graded for correctness. For homeworks, if it is turned in late, there is a 10% score reduction for each day after the due date.
-- **Quizzes** (10%) There will be 3 live quizzes administered over Canvas.
+- **Assignments** (20%): There will be 3 Homework Assignments. These will be graded for correctness. For homeworks, if it is turned in late, there is a 10% score reduction for each day after the due date.
+- **Quizzes** (20%) There will be 3 live quizzes administered over Canvas.
 - **Labs** (10%): There will be some Lab assignments which will be graded for completion. Completion means each problem has been reasonably attempted or the student indicates *in detail* why they confused or unable to complete it. Labs turned in late receive half credit if they are received within a week of the due date.
 - **Final Project** (30%): Students will complete a final project that includes two presentations and a GitHub repository (each worth 10% of their total grade). Students will work in teams of two to complete their final project.
 
