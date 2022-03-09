@@ -47,35 +47,35 @@ As students will often be asked to share and discuss their work, and work on ass
 
 | Topic | Slides | In Class Code | Assignment | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 5/24: Introduction: Deep Learning, This Course | | | Lab 1| |
+ | 5/24: Introduction: Deep Learning, This Course | | | Lab 1| 5/31 |
  | 5/26: Image and Text Data, Why? |  |  |  |  |
 
 **Week 2**
 
 | Topic | Slides | In Class Code | Assignment | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 5/31: Training techniques |  |  | HW 1 |  |
- | 6/2: Final Project Description Presentations |  |  | Quiz 1 | |
+ | 5/31: Training techniques |  |  | HW 1 | 6/7 |
+ | 6/2: Final Project Description Presentations |  |  | Quiz 1 | 6/7 |
 
 **Week 3**
 
 | Topic | Slides | In Class Code | Assignment | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 6/7: Convolutional Neural Networks | | | Lab 2 | |
- | 6/9: Multi-Task, Data Augmentation and Transfer Learning |  |  | Quiz 2 | |
+ | 6/7: Convolutional Neural Networks | | | Lab 2 | 6/14 |
+ | 6/9: Multi-Task, Data Augmentation and Transfer Learning |  |  | Quiz 2 | 6/14 |
 
 **Week 4**
 
 | Topic | Slides | In Class Code | Assignment | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 6/14: Text Processing and Sequence Models |  |  | HW 2 | |
- | 6/16: Even Fancier Sequence Models | | | Quiz 3 | |
+ | 6/14: Text Processing and Sequence Models |  |  | HW 2 | 6/21 |
+ | 6/16: Even Fancier Sequence Models | | | Quiz 3 | 6/21 |
  
 **Week 5**
 
 | Topic | Slides | In Class Code | Assignment | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 6/21: Object Detection |  | | HW 3 | |
+ | 6/21: Object Detection |  | | HW 3 | 6/28 |
  | 6/23: Attention and the Transformer | | | | |
 
 **Week 6**
