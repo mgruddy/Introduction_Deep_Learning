@@ -85,7 +85,6 @@ As students will often be asked to share and discuss their work, and work on ass
  | 6/28: More Topics: Style Transfer, GANs, Reinforcement Learning| | | | |
  | 6/30: Final Project Presentation| | | | |
  
- The final projects produced by the students in this course can be viewed [here](https://docs.google.com/spreadsheets/d/1kUJCgP5zK7Mg0FWoD59JZxE04A1s6AfPNAjaomQSHP0/edit?usp=sharing).
 
  ### Important USF Dates
  
