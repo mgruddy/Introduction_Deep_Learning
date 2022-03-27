@@ -69,7 +69,7 @@ As students will often be asked to share and discuss their work, and work on ass
 | Topic | Slides | In Class Code | Assignment | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
  | 6/14: Text Processing and Sequence Models |  |  | HW 2 | 6/21 |
- | 6/16: Even Fancier Sequence Models | | | Quiz 3 | 6/21 |
+ | 6/16: Even Fancier Sequence Models | | | Quiz 3 | 6/23 |
  
 **Week 5**
 
