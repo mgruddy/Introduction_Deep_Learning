@@ -9,7 +9,7 @@ The repository associated with the course MSDS631 at University of San Francisco
 
 **Location:** 101 Howard Room 155
 
-**Office Hours**: Tuesdays/Thursdays at 1pm - 2pm Pacifici Time
+**Office Hours**: Tuesdays/Thursdays at 1pm - 2pm Pacific Time
 
 **Syllabus**: [Here](https://github.com/mgruddy/Introduction_Deep_Learning/blob/main/MSDS631_DeepLearning_Syllabus.pdf)
 
