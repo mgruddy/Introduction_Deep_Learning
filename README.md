@@ -93,6 +93,6 @@ As students will often be asked to share and discuss their work, and work on ass
  
  ### Important Class Dates
 
- - ?: Final Project Groups must be finalized
- - ?: Final Project Description Presentation Date
- - ?: Final Project Presentation Date
+ - 5/31: Final Project Groups must be finalized
+ - 6/2: Final Project Description Presentation Date
+ - 6/30: Final Project Presentation Date
