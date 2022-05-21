@@ -47,8 +47,8 @@ As students will often be asked to share and discuss their work, and work on ass
 
 | Topic | Slides | In Class Code | Assignment | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 5/24: Introduction: Deep Learning, This Course | | | Lab 1| 5/31 |
- | 5/26: Image and Text Data, Why? |  |  |  |  |
+ | 5/24: Introduction: Deep Learning, This Course | [Slides](https://github.com/mgruddy/Introduction_Deep_Learning/blob/main/Slides/Lecture1_Introduction.pdf) | [Notebook](https://github.com/mgruddy/Introduction_Deep_Learning/blob/main/Notebooks/Lecture1_Introduction.ipynb) | [Lab 1](https://github.com/mgruddy/Introduction_Deep_Learning/blob/main/Assignments/Lab1.pdf)| 5/31 |
+ | 5/26: Image and Text Data, Why? | [Slides](https://github.com/mgruddy/Introduction_Deep_Learning/blob/main/Slides/Lecture2_Images_Text.pdf) | [Notebook](https://github.com/mgruddy/Introduction_Deep_Learning/blob/main/Notebooks/Lecture2_Images_Text.ipynb) |  |  |
 
 **Week 2**
 
