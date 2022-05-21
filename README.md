@@ -7,7 +7,7 @@ The repository associated with the course MSDS631 at University of San Francisco
 
 **Class Time**: Tuesdays/Thursdays at 10am - 12pm Pacific Time
 
-**Location:** 101 Howard Room TBD
+**Location:** 101 Howard Room 155
 
 **Office Hours**: Tuesdays/Thursdays at 1pm - 2pm Pacifici Time
 
