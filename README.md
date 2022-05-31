@@ -54,7 +54,7 @@ As students will often be asked to share and discuss their work, and work on ass
 
 | Topic | Slides | In Class Code | Assignment | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 5/31: Training techniques |  |  | HW 1 | 6/7 |
+ | 5/31: Training techniques | [Slides](https://github.com/mgruddy/Introduction_Deep_Learning/blob/main/Slides/Lecture3_Training_Techniques.pdf) | [Notebook](https://github.com/mgruddy/Introduction_Deep_Learning/blob/main/Notebooks/Lecture3_Make_DL_Work.ipynb) | [HW 1](https://github.com/mgruddy/Introduction_Deep_Learning/blob/main/Assignments/Homework1.pdf) | 6/7 |
  | 6/2: Final Project Description Presentations |  |  | Quiz 1 | 6/7 |
 
 **Week 3**
