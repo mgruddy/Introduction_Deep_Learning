@@ -61,8 +61,8 @@ As students will often be asked to share and discuss their work, and work on ass
 
 | Topic | Slides | In Class Code | Assignment | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 6/7: Convolutional Neural Networks | | | Lab 2 | 6/14 |
- | 6/9: Multi-Task, Data Augmentation and Transfer Learning |  |  | Quiz 2 | 6/14 |
+ | 6/7: Convolutional Neural Networks | [Slides](https://github.com/mgruddy/Introduction_Deep_Learning/blob/main/Slides/Lecture4_CNNs.pdf) | [Notebook](https://github.com/mgruddy/Introduction_Deep_Learning/blob/main/Notebooks/Lecture4_CNNs.ipynb) | [Lab 2](https://github.com/mgruddy/Introduction_Deep_Learning/blob/main/Assignments/Lab2.pdf) | 6/14 |
+ | 6/9: Multi-Task, Data Augmentation and Transfer Learning | [Slides](https://github.com/mgruddy/Introduction_Deep_Learning/blob/main/Slides/Lecture5_MT_DA_TL.pdf) | [Notebook](https://github.com/mgruddy/Introduction_Deep_Learning/blob/main/Notebooks/Lecture5_Transfer_Augmentation.ipynb) | Quiz 2 | 6/14 |
 
 **Week 4**
 
