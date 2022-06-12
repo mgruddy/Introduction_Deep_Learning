@@ -68,8 +68,8 @@ As students will often be asked to share and discuss their work, and work on ass
 
 | Topic | Slides | In Class Code | Assignment | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 6/14: Text Processing and Sequence Models |  |  | HW 2 | 6/21 |
- | 6/16: Even Fancier Sequence Models | | | Quiz 3 | 6/23 |
+ | 6/14: Text Processing and Sequence Models | [Slides](https://github.com/mgruddy/Introduction_Deep_Learning/blob/main/Slides/Lecture6_Text_Sequences.pdf) | [Notebook](https://github.com/mgruddy/Introduction_Deep_Learning/blob/main/Notebooks/Lecture6_Text_Embeddings_Models.ipynb) | [HW 2](https://github.com/mgruddy/Introduction_Deep_Learning/blob/main/Assignments/Homework2.pdf) | 6/21 |
+ | 6/16: Even Fancier Sequence Models | [Slides](https://github.com/mgruddy/Introduction_Deep_Learning/blob/main/Slides/Lecture7_Sequence_Models.pdf) | [Notebook](https://github.com/mgruddy/Introduction_Deep_Learning/blob/main/Notebooks/Lecture7_Sequence_Models.ipynb) | Quiz 3 | 6/23 |
  
 **Week 5**
 
